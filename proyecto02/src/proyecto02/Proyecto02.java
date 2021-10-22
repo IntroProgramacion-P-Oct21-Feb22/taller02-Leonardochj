@@ -18,6 +18,7 @@ public class Proyecto02 {
         System.out.println("Ejemplo básico de Java");
         System.out.println("Versionado a través de Git\n");
         System.out.println("Manejado desde GitHub");
+        System.out.println("Creado por <ubicar su usuario de github>");
     }
     
 }
